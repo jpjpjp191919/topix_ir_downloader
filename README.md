@@ -1,4 +1,4 @@
-# IR Pattern Analyzer
+# TOPIX IR Downloader
 
 This project analyzes the patterns of IR (Investor Relations) pages of companies to build a smarter web scraper.
 
